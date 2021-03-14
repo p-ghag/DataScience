@@ -1,3 +1,23 @@
+# Course Difficulty, Teacher Rating, and Fields of Study: a COGS 108 group project
+
+
+
+### Introduction
+
+CAPE at University of Califronia, San Diego is an anonymous online rating sytem for students to provide feedback to the instrutors and their courses. In this data analysis study, we try to look at the correlation between course difficulty and instructor ratings on CAPE, and whether this correlation is significantly different among courses in different fields of study (STEM, Social Science, and Humanities).
+
+
+
+### Acknowledgments
+
+- <a href=https://cape.ucsd.edu/>CAPE</a>.
+- <a href=https://github.com/dcao/seascape>Seascape</a> for the original data.
+- Professor Shannon Ellis and the COGS108 instruction team, for all the great helps and guidances that they provided to this project.
+
+
+
+### Original Instruction
+
 This is your group repo for your final project for COGS108.
 
 This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
