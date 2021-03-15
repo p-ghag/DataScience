@@ -1,4 +1,4 @@
-# Course Difficulty, Teacher Rating, and Fields of Study: a COGS 108 group project
+# Course Difficulty, Instructor Ratings, and Fields of Study: a COGS 108 group project
 
 
 
